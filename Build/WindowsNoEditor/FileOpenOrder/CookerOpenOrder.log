@@ -1,346 +1,346 @@
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/M_SuperGrid_Default.uasset" 0
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/ArchTop.uasset" 1
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/Materials/MAT_smoke.uasset" 2
-"../../../Engine/Content/EditorMeshes/AssetViewer/Sphere_inversenormals.uasset" 3
+"../../../Engine/Content/EditorMeshes/AssetViewer/Sphere_inversenormals.uasset" 2
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/Materials/MAT_smoke.uasset" 3
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/NewBlueprint.uasset" 4
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 5
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 6
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 7
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 8
-"../../../Engine/Content/BasicShapes/Cube.uasset" 9
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 10
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Elevator.uasset" 11
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 12
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 13
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 14
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/swingEdit.uasset" 15
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/MONT_swing.uasset" 16
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/RifleRun4UE4.uasset" 17
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/Animations/RunningSlide4UE4.uasset" 18
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BlockoutAssets/defaultMat.uasset" 19
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/PlayerController.uasset" 20
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_test.uasset" 21
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/Geometry/Meshes/iceWallTest.uasset" 22
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/StarterContent/Materials/M_Basic_Wall.uasset" 23
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/DefaultMaterial.uasset" 24
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/reverseSphere.uasset" 25
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/Meshes/iceWallTest.uasset" 26
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_newDecal.uasset" 27
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Materials/M_Noise.uasset" 28
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Materials/M_Noise_Inst.uasset" 29
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/Geometry/Meshes/M_Cube.uasset" 30
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/Geometry/Meshes/SM_1M_Cube.uasset" 31
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 32
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/swing.uasset" 33
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/CUE_swing.uasset" 34
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/enemyKilled.uasset" 35
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/CUE_enemyKilled.uasset" 36
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/waterGun-2.uasset" 37
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/waterGun.uasset" 38
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Playerattuentation.uasset" 39
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/CUE_spray.uasset" 40
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/slide-2.uasset" 41
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/slide-1.uasset" 42
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/CUE_slide.uasset" 43
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/run.uasset" 44
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/CUE_run.uasset" 45
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/walk-2.uasset" 46
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/walk-1.uasset" 47
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/CUE_foley.uasset" 48
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Enviroment/geyserJump.uasset" 49
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Enviroment/CUE_geyserJump.uasset" 50
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Medium.uasset" 51
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Medium_Font.uasset" 52
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Player_Widget.uasset" 53
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Black.uasset" 54
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Black_Font.uasset" 55
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/PlayersList_Widget.uasset" 56
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Message_Widget.uasset" 57
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-BoldItalic.uasset" 58
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-BoldItalic_Font.uasset" 59
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/DestroySession_Widget.uasset" 60
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 61
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/HUD/water.uasset" 62
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/HUD/Q.uasset" 63
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/HUD/leftM.uasset" 64
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/HUD/E.uasset" 65
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/ENUM_teams.uasset" 66
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/BPW_killedEnemy.uasset" 67
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/112Map.uasset" 68
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/minimap_RenderTarget.uasset" 69
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/minimap_RenderTarget_Mat.uasset" 70
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/minimap_data.uasset" 71
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/MAT_minimap.uasset" 72
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/MAT_minimap_Inst.uasset" 73
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/BPW_miniMap.uasset" 74
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Tilable_Stone_Normal.uasset" 75
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Glowing.uasset" 76
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BlockoutAssets/ObeliskMesh.uasset" 77
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/Meshes/lambert1.uasset" 78
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/Meshes/beamModel.uasset" 79
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Textures/skyObeliskAlpha.uasset" 80
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_oblesikRay.uasset" 81
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_oblesikRay_Inst.uasset" 82
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_controlPoint.uasset" 83
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_controlPoint_Inst.uasset" 84
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_controlPoint.uasset" 85
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_gameData.uasset" 86
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/BPW_hillTracker.uasset" 87
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_gameState.uasset" 88
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Textures/T_FirstPersonCrosshair.uasset" 89
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_FirstPersonHUD.uasset" 90
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_MultiplayerController.uasset" 91
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_MultiPlayerGameMode.uasset" 92
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/BPW_gameHUD.uasset" 93
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/defaultMat.uasset" 94
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/Meshes/iceWallFBXw.uasset" 95
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_iceWall.uasset" 96
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_smoke.uasset" 97
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 98
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 99
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_smoke.uasset" 100
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_Ironsights.uasset" 101
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_Ironsights_Up.uasset" 102
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsRightUP.uasset" 103
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsRightDown.uasset" 104
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsRightCenter.uasset" 105
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsLeftUp.uasset" 106
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsLeftDown.uasset" 107
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsLefrtCenter.uasset" 108
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsDown.uasset" 109
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsCenter.uasset" 110
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_AimOffsetIronSight.uasset" 111
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_Space_Hip.uasset" 112
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_RightDownb.uasset" 113
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_LefntDown.uasset" 114
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_LefUp.uasset" 115
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_CentreRiget.uasset" 116
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_CenterRightUp.uasset" 117
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/AimCenterUp.uasset" 118
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/AimCenterLeft.uasset" 119
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/AimCenterDonw.uasset" 120
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/AimCenter.uasset" 121
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_AimOffset2D.uasset" 122
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Reload_Rifle_Hip.uasset" 123
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jog_Rt_Rifle.uasset" 124
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jog_Lt_Rifle.uasset" 125
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jog_Fwd_Rifle.uasset" 126
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jog_Bwd_Rifle.uasset" 127
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/ReloadBlendSpace.uasset" 128
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jump_From_Stand.uasset" 129
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jump_From_Jog.uasset" 130
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Idle_Rifle_Hip.uasset" 131
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 132
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/FireAnimMontage.uasset" 133
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 134
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 135
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 136
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 137
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 138
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/CrouchReloading.uasset" 139
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/BS_Jog.uasset" 140
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/BS_CrouchWalk.uasset" 141
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 142
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 143
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 144
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 145
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 146
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/BSAimIronSight.uasset" 147
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/RunningSlide4UE4.uasset" 148
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/Animations/RifleJump4UE4.uasset" 149
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 150
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Death_1.uasset" 151
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Light.uasset" 152
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Light_Font.uasset" 153
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Chat_Wiget.uasset" 154
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 155
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 156
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 157
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRestitutionMergeType.uasset" 158
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 159
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 160
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 161
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraFrictionMergeType.uasset" 162
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 163
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 164
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 165
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 166
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCollisionRadiusOptions.uasset" 167
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 168
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uasset" 169
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 170
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 171
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 172
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 173
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 174
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 175
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_GPUCollisionType.uasset" 176
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 177
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_CPUCollisionType.uasset" 178
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 179
-"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 180
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 181
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 182
-"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 183
-"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 184
-"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 185
-"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 186
-"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 187
-"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 188
-"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 189
-"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 190
-"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 191
-"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 192
-"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 193
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 194
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 195
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 196
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 197
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 198
-"../../Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 199
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 200
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 201
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 202
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 203
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 204
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 205
-"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 206
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 207
-"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 208
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 209
-"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 210
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 211
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 212
-"../../Plugins/FX/Niagara/Content/Modules/Collision/SceneDepthTest.uasset" 213
-"../../Plugins/FX/Niagara/Content/Modules/Collision/NiagaraDistanceFieldCollisions.uasset" 214
-"../../Plugins/FX/Niagara/Content/Functions/Collision/RandomizeCollisionNormals.uasset" 215
-"../../Plugins/FX/Niagara/Content/Functions/Collision/PlaneSphereCollisionDetection.uasset" 216
-"../../Plugins/FX/Niagara/Content/Functions/ReflectVector.uasset" 217
-"../../Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uasset" 218
-"../../Plugins/FX/Niagara/Content/Functions/Math/CentimeterMeterConversion.uasset" 219
-"../../Plugins/FX/Niagara/Content/Modules/Collision/CollisionQueryAndResponse.uasset" 220
-"../../Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uasset" 221
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 222
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 223
-"../../Plugins/FX/Niagara/Content/Functions/CalculateRadiusFromSpriteSize.uasset" 224
-"../../Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uasset" 225
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 226
-"../../Plugins/FX/Niagara/Content/Modules/Collision/Collision.uasset" 227
-"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 228
-"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 229
-"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 230
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/VFX/NIA_Water.uasset" 231
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/VFX/BP_waterSpray.uasset" 232
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Textures/T_UE4_Mannequin_occlusion_Mobile.uasset" 233
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Textures/T_UE4_Mannequin_MAT_MASKA.uasset" 234
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Textures/T_UE4_Mannequin__normals.uasset" 235
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Textures/T_UE4_LOGO_CARD.uasset" 236
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 237
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 238
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 239
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 240
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 241
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 242
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 243
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 244
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 245
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 246
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 247
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 248
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 249
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body_Inst.uasset" 250
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 251
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Textures/T_UE4Man_Logo_N.uasset" 252
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 253
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 254
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/Audio/FirstPersonTemplateWeaponFire02_wav.uasset" 255
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 256
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Textures/T_FPGun_N.uasset" 257
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Textures/T_FPGun_M.uasset" 258
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 259
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 260
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 261
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 262
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 263
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 264
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 265
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 266
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/M_FPGun.uasset" 267
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Mesh/SK_FPGun.uasset" 268
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/BPW_roundCheck.uasset" 269
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Bold.uasset" 270
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Bold_Font.uasset" 271
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Death_Widget.uasset" 272
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/Materials/MAT_iceWallPlanner.uasset" 273
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_iceWallLocation.uasset" 274
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_Multiplayer_Character.uasset" 275
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_AmmoPickUp.uasset" 276
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Materials/M_NoiseGreen_Inst.uasset" 277
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_HealthPickUp.uasset" 278
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Aim_Space_Hip.uasset" 279
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Aim_Space_Ironsights.uasset" 280
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/BS_CrouchWalkReload.uasset" 281
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/BSAimIdle.uasset" 282
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 283
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 284
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 285
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 286
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 287
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 288
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 289
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/CrouchAim.uasset" 290
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Death_2.uasset" 291
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Death_3.uasset" 292
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Death_Ironsights_1.uasset" 293
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Death_Ironsights_2.uasset" 294
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Equip_Pistol_Standing.uasset" 295
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Equip_Rifle_Standing.uasset" 296
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Fire_Rifle_Hip.uasset" 297
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Fire_Shotgun_Hip.uasset" 298
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 299
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Hit_React_1.uasset" 300
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Hit_React_2.uasset" 301
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Hit_React_3.uasset" 302
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Hit_React_4.uasset" 303
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Idle_Pistol.uasset" 304
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 305
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 306
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 307
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Death_1.uasset" 308
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Death_2.uasset" 309
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Fire_1.uasset" 310
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Fire_2.uasset" 311
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Reload_Rifle.uasset" 312
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Reload_Shotgun.uasset" 313
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Stand_To_Prone.uasset" 314
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Idle.uasset" 315
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/ProneBS.uasset" 316
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_To_Stand.uasset" 317
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/ProneBSReverse.uasset" 318
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/ProneWalk.uasset" 319
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Reload_Pistol.uasset" 320
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 321
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Reload_Shotgun_Hip.uasset" 322
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 323
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 324
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 325
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 326
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/NewBlendSpace.uasset" 327
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_BodyRed.uasset" 328
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_BodyRedBlue.uasset" 329
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 330
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 331
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 332
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Sequenser/FadeInLevelSequnser.uasset" 333
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Font/MP_FontFace.uasset" 334
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Font/MP_Font.uasset" 335
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Ammo_Widget.uasset" 336
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Health_Widget.uasset" 337
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/spray-2.uasset" 338
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/spray-1.uasset" 339
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/new-walk-2.uasset" 340
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/new-walk-1.uasset" 341
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Music/MainMenu.uasset" 342
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 5
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 6
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 7
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/swingEdit.uasset" 8
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/MONT_swing.uasset" 9
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/RifleRun4UE4.uasset" 10
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/Animations/RunningSlide4UE4.uasset" 11
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BlockoutAssets/defaultMat.uasset" 12
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/PlayerController.uasset" 13
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_test.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 15
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 16
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 17
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 18
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/Geometry/Meshes/iceWallTest.uasset" 19
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/StarterContent/Materials/M_Basic_Wall.uasset" 20
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/DefaultMaterial.uasset" 21
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/reverseSphere.uasset" 22
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/Meshes/iceWallTest.uasset" 23
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_newDecal.uasset" 24
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/Geometry/Meshes/M_Cube.uasset" 25
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/Geometry/Meshes/SM_1M_Cube.uasset" 26
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Materials/M_Noise.uasset" 27
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Materials/M_Noise_Inst.uasset" 28
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 29
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/MAT_interiorSmoke.uasset" 30
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_smoke.uasset" 31
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 32
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 33
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_smoke.uasset" 34
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/Audio/FirstPersonTemplateWeaponFire02_wav.uasset" 35
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 36
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Textures/T_UE4Man_Logo_N.uasset" 37
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Textures/T_UE4_Mannequin_occlusion_Mobile.uasset" 38
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Textures/T_UE4_Mannequin_MAT_MASKA.uasset" 39
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Textures/T_UE4_Mannequin__normals.uasset" 40
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Textures/T_UE4_LOGO_CARD.uasset" 41
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 42
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 43
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 44
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 45
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 46
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 47
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 48
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 49
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 50
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 51
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 52
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 53
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 54
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 55
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 56
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 57
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 58
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 59
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRestitutionMergeType.uasset" 60
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 61
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 62
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 63
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraFrictionMergeType.uasset" 64
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 65
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 66
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 67
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 68
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCollisionRadiusOptions.uasset" 69
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 70
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uasset" 71
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 72
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 73
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 74
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 75
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 76
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 77
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_GPUCollisionType.uasset" 78
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 79
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_CPUCollisionType.uasset" 80
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 81
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 82
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 83
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 84
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 85
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 86
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 87
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 88
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 89
+"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 90
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 91
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 92
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 93
+"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 94
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 95
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 96
+"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 97
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 98
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 99
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 100
+"../../Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 101
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 102
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 103
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 104
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 105
+"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 106
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 107
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 108
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 109
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 110
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 111
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 112
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 113
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 114
+"../../Plugins/FX/Niagara/Content/Modules/Collision/SceneDepthTest.uasset" 115
+"../../Plugins/FX/Niagara/Content/Modules/Collision/NiagaraDistanceFieldCollisions.uasset" 116
+"../../Plugins/FX/Niagara/Content/Functions/Collision/RandomizeCollisionNormals.uasset" 117
+"../../Plugins/FX/Niagara/Content/Functions/Collision/PlaneSphereCollisionDetection.uasset" 118
+"../../Plugins/FX/Niagara/Content/Functions/ReflectVector.uasset" 119
+"../../Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uasset" 120
+"../../Plugins/FX/Niagara/Content/Functions/Math/CentimeterMeterConversion.uasset" 121
+"../../Plugins/FX/Niagara/Content/Modules/Collision/CollisionQueryAndResponse.uasset" 122
+"../../Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uasset" 123
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 124
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 125
+"../../Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uasset" 126
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 127
+"../../Plugins/FX/Niagara/Content/Functions/CalculateRadiusFromSpriteSize.uasset" 128
+"../../Plugins/FX/Niagara/Content/Modules/Collision/Collision.uasset" 129
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 130
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 131
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 132
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/VFX/NIA_Water.uasset" 133
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body_Inst.uasset" 134
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/VFX/BP_waterSpray.uasset" 135
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 136
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Death_1.uasset" 137
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/Animations/RifleJump4UE4.uasset" 138
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Animations/RunningSlide4UE4.uasset" 139
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jog_Fwd_Rifle.uasset" 140
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jog_Lt_Rifle.uasset" 141
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jog_Bwd_Rifle.uasset" 142
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jog_Rt_Rifle.uasset" 143
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/BS_Jog.uasset" 144
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 145
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 146
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 147
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 148
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/BS_CrouchWalk.uasset" 149
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 150
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 151
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 152
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 153
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 154
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/BSAimIronSight.uasset" 155
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 156
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_Ironsights.uasset" 157
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_Ironsights_Up.uasset" 158
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsRightUP.uasset" 159
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsRightDown.uasset" 160
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsRightCenter.uasset" 161
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsLeftUp.uasset" 162
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsLeftDown.uasset" 163
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsLefrtCenter.uasset" 164
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsDown.uasset" 165
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimIronSightPoses/Aim_Space_IronsightsCenter.uasset" 166
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_AimOffsetIronSight.uasset" 167
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_Space_Hip.uasset" 168
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_RightDownb.uasset" 169
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_LefntDown.uasset" 170
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_LefUp.uasset" 171
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_CentreRiget.uasset" 172
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/Aim_CenterRightUp.uasset" 173
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/AimCenterUp.uasset" 174
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/AimCenterLeft.uasset" 175
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/AimCenterDonw.uasset" 176
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/AimCenter.uasset" 177
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_AimOffset2D.uasset" 178
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Idle_Rifle_Hip.uasset" 179
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Reload_Rifle_Hip.uasset" 180
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/ReloadBlendSpace.uasset" 181
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jump_From_Stand.uasset" 182
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jump_From_Jog.uasset" 183
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 184
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/FireAnimMontage.uasset" 185
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/CrouchReloading.uasset" 186
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 187
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/ENUM_teams.uasset" 188
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Textures/T_FirstPersonCrosshair.uasset" 189
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_FirstPersonHUD.uasset" 190
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_MultiplayerController.uasset" 191
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/Meshes/lambert1.uasset" 192
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/Meshes/beamModel.uasset" 193
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Tilable_Stone_Normal.uasset" 194
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Glowing.uasset" 195
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BlockoutAssets/ObeliskMesh.uasset" 196
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Textures/skyObeliskAlpha.uasset" 197
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_oblesikRay.uasset" 198
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_oblesikRay_Inst.uasset" 199
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_controlPoint.uasset" 200
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Materials/Materials/MAT_controlPoint_Inst.uasset" 201
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_controlPoint.uasset" 202
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_gameState.uasset" 203
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_MultiPlayerGameMode.uasset" 204
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/HUD/water.uasset" 205
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/HUD/Q.uasset" 206
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/HUD/leftM.uasset" 207
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/HUD/E.uasset" 208
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/112Map.uasset" 209
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/BPW_killedEnemy.uasset" 210
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/minimap_RenderTarget.uasset" 211
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/minimap_RenderTarget_Mat.uasset" 212
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/minimap_data.uasset" 213
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/MAT_minimap.uasset" 214
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/MAT_minimap_Inst.uasset" 215
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/BPW_miniMap.uasset" 216
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/BPW_gameHUD.uasset" 217
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_gameData.uasset" 218
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/BPW_hillTracker.uasset" 219
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/defaultMat.uasset" 220
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geometry/Meshes/iceWallFBXw.uasset" 221
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_iceWall.uasset" 222
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Medium.uasset" 223
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Medium_Font.uasset" 224
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Player_Widget.uasset" 225
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Black.uasset" 226
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Black_Font.uasset" 227
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/TeamSelector_Widget.uasset" 228
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/Materials/MAT_iceWallPlanner.uasset" 229
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_iceWallLocation.uasset" 230
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/swing.uasset" 231
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/CUE_swing.uasset" 232
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/enemyKilled.uasset" 233
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/CUE_enemyKilled.uasset" 234
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/waterGun.uasset" 235
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/waterGun-2.uasset" 236
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Playerattuentation.uasset" 237
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/CUE_spray.uasset" 238
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/slide-2.uasset" 239
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/slide-1.uasset" 240
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/CUE_slide.uasset" 241
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/run.uasset" 242
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/CUE_run.uasset" 243
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/walk-2.uasset" 244
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/walk-1.uasset" 245
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Foley/CUE_foley.uasset" 246
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Enviroment/geyserJump.uasset" 247
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Enviroment/CUE_geyserJump.uasset" 248
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/PlayersList_Widget.uasset" 249
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Message_Widget.uasset" 250
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-BoldItalic.uasset" 251
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-BoldItalic_Font.uasset" 252
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/DestroySession_Widget.uasset" 253
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Bold.uasset" 254
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Bold_Font.uasset" 255
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Death_Widget.uasset" 256
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Light.uasset" 257
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Light_Font.uasset" 258
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Chat_Wiget.uasset" 259
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/BPW_roundCheck.uasset" 260
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 261
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Textures/T_FPGun_N.uasset" 262
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Textures/T_FPGun_M.uasset" 263
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 264
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 265
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 266
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 267
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 268
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 269
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 270
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 271
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/M_FPGun.uasset" 272
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Mesh/SK_FPGun.uasset" 273
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_Multiplayer_Character.uasset" 274
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_AmmoPickUp.uasset" 275
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Materials/M_NoiseGreen_Inst.uasset" 276
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_HealthPickUp.uasset" 277
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_BodyRedBlue.uasset" 278
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/trailerAssets/BP_recordingActor.uasset" 279
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_recordingActor.uasset" 280
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Aim_Space_Hip.uasset" 281
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Aim_Space_Ironsights.uasset" 282
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/BS_CrouchWalkReload.uasset" 283
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/BSAimIdle.uasset" 284
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 285
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 286
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 287
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 288
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 289
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 290
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 291
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/CrouchAim.uasset" 292
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Death_2.uasset" 293
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Death_3.uasset" 294
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Death_Ironsights_1.uasset" 295
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Death_Ironsights_2.uasset" 296
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Equip_Pistol_Standing.uasset" 297
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Equip_Rifle_Standing.uasset" 298
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Fire_Rifle_Hip.uasset" 299
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Fire_Shotgun_Hip.uasset" 300
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 301
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Hit_React_1.uasset" 302
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Hit_React_2.uasset" 303
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Hit_React_3.uasset" 304
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Hit_React_4.uasset" 305
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Idle_Pistol.uasset" 306
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 307
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 308
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 309
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Death_1.uasset" 310
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Death_2.uasset" 311
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Fire_1.uasset" 312
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Fire_2.uasset" 313
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Reload_Rifle.uasset" 314
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Reload_Shotgun.uasset" 315
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Stand_To_Prone.uasset" 316
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_Idle.uasset" 317
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/ProneBS.uasset" 318
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Prone_To_Stand.uasset" 319
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/ProneBSReverse.uasset" 320
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/ProneWalk.uasset" 321
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Reload_Pistol.uasset" 322
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 323
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Reload_Shotgun_Hip.uasset" 324
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 325
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 326
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 327
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 328
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/AimPoses/NewBlendSpace.uasset" 329
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_BodyRed.uasset" 330
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 331
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 332
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 333
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Sequenser/FadeInLevelSequnser.uasset" 334
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Font/MP_FontFace.uasset" 335
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Font/MP_Font.uasset" 336
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Ammo_Widget.uasset" 337
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Health_Widget.uasset" 338
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/spray-2.uasset" 339
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/spray-1.uasset" 340
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/new-walk-2.uasset" 341
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/SFX/new-walk-1.uasset" 342
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/basicReticle.uasset" 343
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/minimapTexture4.uasset" 344
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-BlackItalic.uasset" 345
@@ -357,579 +357,586 @@
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-Thin_Font.uasset" 356
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-ThinItalic.uasset" 357
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/Roboto/Roboto-ThinItalic_Font.uasset" 358
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 359
-"../../../Engine/Content/BasicShapes/Cone.uasset" 360
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 361
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 362
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 363
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 364
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 365
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 366
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 367
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 368
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 369
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 370
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 371
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 372
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 373
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 374
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 375
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 376
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 377
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 378
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 379
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 380
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 381
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 382
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 383
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 384
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 385
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 386
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 387
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 388
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 389
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 390
-"../../../Engine/Content/EditorResources/S_Note.uasset" 391
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 392
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 393
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 394
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 395
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 396
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 397
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 398
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 399
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 400
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 401
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 402
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 403
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 404
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 405
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 406
-"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 407
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 408
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 409
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 410
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 411
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 412
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 413
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 414
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 415
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 416
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 417
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 418
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 419
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 420
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 421
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 422
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 423
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 424
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 425
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 426
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 427
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 428
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 429
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 430
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 431
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 432
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 433
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 434
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 435
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 436
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 437
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 438
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 439
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 440
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 441
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 442
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 443
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 444
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 445
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 446
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 447
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 448
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 449
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 450
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 451
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 452
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 453
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 454
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 455
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 456
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 457
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 458
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 459
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 460
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 461
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 462
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 463
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 464
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 465
-"../../../Engine/Content/EngineSounds/Master.uasset" 466
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 467
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 468
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 469
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 470
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 471
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 472
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 473
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 474
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 475
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 476
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 477
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 478
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 479
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 480
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 481
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 482
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 483
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 484
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 485
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 486
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 487
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 488
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 489
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 490
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 491
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 492
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 493
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 494
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 495
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 496
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 497
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 498
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 499
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 500
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 501
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 502
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 503
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 504
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 505
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 506
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 507
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 508
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 509
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 510
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 511
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 512
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 513
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 514
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 515
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 516
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 517
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 518
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 519
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 520
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 521
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 522
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 523
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 524
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 525
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 526
-"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 527
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 528
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 529
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 530
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 531
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 532
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 533
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 534
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 535
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 536
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 537
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/MAP_gameMap_BuiltData.uasset" 538
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 539
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 540
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 541
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 542
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 543
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/MAP_gameMap.umap" 544
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/ZiplineBase.uasset" 545
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/WallCover_C_Boxed.uasset" 546
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/WallCover_B_Boxed.uasset" 547
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/WallCover_A_Boxed.uasset" 548
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset" 549
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset" 550
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset" 551
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 552
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 553
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 554
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 555
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_ObjectScalable.uasset" 556
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset" 557
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset" 558
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset" 559
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset" 560
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset" 561
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_SingleColor.uasset" 562
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_Default.uasset" 563
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Stairs.uasset" 564
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Slope.uasset" 565
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_SlantedBox45.uasset" 566
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_RingQuarter.uasset" 567
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_RingPiece.uasset" 568
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderFull.uasset" 569
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Box.uasset" 570
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Seamless_Sand.uasset" 571
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/PalmTree.uasset" 572
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_MultiplayerGameInstance.uasset" 573
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/SessionButton_Widget.uasset" 574
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/JoinSession_Widget.uasset" 575
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/MapIcons/pyramidThumbnail.uasset" 576
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/MapIcons/ancientThumbnail.uasset" 577
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Map_Widget.uasset" 578
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/HostSession_Widget.uasset" 579
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Menu_Widget.uasset" 580
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/TeamSelector_Widget.uasset" 581
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/WaitingForPayers_Widget.uasset" 582
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Timer_Widget.uasset" 583
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Colunm_B.uasset" 584
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Colunm_A_Boxed.uasset" 585
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BuildingAWallD_Boxed.uasset" 586
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BuildingAWallC_Boxed.uasset" 587
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BuildingAWallB_Boxed.uasset" 588
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BuildingAWallA_Boxed.uasset" 589
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BuildingAFloor_Boxed.uasset" 590
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 591
-"../../../Engine/Content/BasicShapes/Plane.uasset" 592
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/DefaultMaterial_Base_color.uasset" 593
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/DefaultMaterial_Height.uasset" 594
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/DefaultMaterial_Metallic.uasset" 595
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/trailerAssets/NewLevelSequence.uasset" 359
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 360
+"../../../Engine/Content/BasicShapes/Cone.uasset" 361
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 362
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 363
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 364
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 365
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 366
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 367
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 368
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 369
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 370
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 371
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 372
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 373
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 374
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 375
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 376
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 377
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 378
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 379
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 380
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 381
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 382
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 383
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 384
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 385
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 386
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 387
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 388
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 389
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 390
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 391
+"../../../Engine/Content/EditorResources/S_Note.uasset" 392
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 393
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 394
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 395
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 396
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 397
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 398
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 399
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 400
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 401
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 402
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 403
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 404
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 405
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 406
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 407
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 408
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 409
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 410
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 411
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 412
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 413
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 414
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 415
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 416
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 417
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 418
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 419
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 420
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 421
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 422
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 423
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 424
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 425
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 426
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 427
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 428
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 429
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 430
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 431
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 432
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 433
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 434
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 435
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 436
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 437
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 438
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 439
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 440
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 441
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 442
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 443
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 444
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 445
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 446
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 447
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 448
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 449
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 450
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 451
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 452
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 453
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 454
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 455
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 456
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 457
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 458
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 459
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 460
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 461
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 462
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 463
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 464
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 465
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 466
+"../../../Engine/Content/EngineSounds/Master.uasset" 467
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 468
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 469
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 470
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 471
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 472
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 473
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 474
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 475
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 476
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 477
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 478
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 479
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 480
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 481
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 482
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 483
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 484
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 485
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 486
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 487
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 488
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 489
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 490
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 491
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 492
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 493
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 494
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 495
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 496
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 497
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 498
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 499
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 500
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 501
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 502
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 503
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 504
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 505
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 506
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 507
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 508
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 509
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 510
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 511
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 512
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 513
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 514
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 515
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 516
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 517
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 518
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 519
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 520
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 521
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 522
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 523
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 524
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 525
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 526
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 527
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 528
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 529
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 530
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 531
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 532
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 533
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 534
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 535
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 536
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 537
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 538
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/MAP_gameMap_BuiltData.uasset" 539
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 540
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 541
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 542
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 543
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 544
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/MAP_gameMap.umap" 545
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/ZiplineBase.uasset" 546
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/WallCover_C_Boxed.uasset" 547
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/WallCover_B_Boxed.uasset" 548
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/WallCover_A_Boxed.uasset" 549
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset" 550
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset" 551
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset" 552
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 553
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 554
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 555
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 556
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_ObjectScalable.uasset" 557
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset" 558
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset" 559
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset" 560
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset" 561
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset" 562
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_SingleColor.uasset" 563
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_Default.uasset" 564
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Stairs.uasset" 565
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Slope.uasset" 566
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_SlantedBox45.uasset" 567
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_RingQuarter.uasset" 568
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_RingPiece.uasset" 569
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderFull.uasset" 570
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Box.uasset" 571
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Seamless_Sand.uasset" 572
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/PalmTree.uasset" 573
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/LogoPNG-01.uasset" 574
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Blueprints/BP_MultiplayerGameInstance.uasset" 575
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/SessionButton_Widget.uasset" 576
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/JoinSession_Widget.uasset" 577
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/MapIcons/pyramidThumbnail.uasset" 578
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Widget/MapIcons/ancientThumbnail.uasset" 579
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Map_Widget.uasset" 580
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/HostSession_Widget.uasset" 581
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Menu_Widget.uasset" 582
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/WaitingForPayers_Widget.uasset" 583
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Widgets/Timer_Widget.uasset" 584
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Colunm_B.uasset" 585
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Colunm_A_Boxed.uasset" 586
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BuildingAWallD_Boxed.uasset" 587
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BuildingAWallC_Boxed.uasset" 588
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BuildingAWallB_Boxed.uasset" 589
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BuildingAWallA_Boxed.uasset" 590
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BuildingAFloor_Boxed.uasset" 591
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 592
+"../../../Engine/Content/BasicShapes/Plane.uasset" 593
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/DefaultMaterial_Roughness.uasset" 594
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/DefaultMaterial_Normal_OpenGL.uasset" 595
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/DefaultMaterial_Normal.uasset" 596
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/DefaultMaterial_Normal_OpenGL.uasset" 597
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/DefaultMaterial_Roughness.uasset" 598
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/NewMaterial.uasset" 599
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/E.uasset" 600
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/ColorA1.uasset" 601
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMapFlatWalk_BuiltData.uasset" 602
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/NewBlueprint1.uasset" 603
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Red.uasset" 604
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/ZiplineEnd.uasset" 605
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Green.uasset" 606
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/ZiplineBegin.uasset" 607
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_zipline.uasset" 608
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Oasis.uasset" 609
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_refillStation.uasset" 610
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_killFloor.uasset" 611
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/ColorA.uasset" 612
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/VFX/NIA_geyser.uasset" 613
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/DefaultMaterial_Metallic.uasset" 597
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/DefaultMaterial_Height.uasset" 598
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/DefaultMaterial_Base_color.uasset" 599
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/NewMaterial.uasset" 600
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/E.uasset" 601
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/ColorA1.uasset" 602
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMapFlatWalk_BuiltData.uasset" 603
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/NewBlueprint1.uasset" 604
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Red.uasset" 605
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/ZiplineEnd.uasset" 606
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Green.uasset" 607
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/ZiplineBegin.uasset" 608
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_zipline.uasset" 609
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Oasis.uasset" 610
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_refillStation.uasset" 611
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_killFloor.uasset" 612
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/ColorA.uasset" 613
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Enviroment/geyser.uasset" 614
 "F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Enviroment/CUE_geyser.uasset" 615
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geyser.uasset" 616
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_geyser.uasset" 617
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMapFlatWalk.umap" 618
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/MAP_Blockout_BuiltData.uasset" 619
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/MAP_Blockout.umap" 620
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BlockoutAssets/_wire_255255256.uasset" 621
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BlockoutAssets/SM_Bob.uasset" 622
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMap_BuiltData.uasset" 623
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMap.umap" 624
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Music/Pyramid.uasset" 625
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 626
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MSTextures/Metalness.uasset" 627
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slvfI/Roughness_2K_slvfI.uasset" 628
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slvfI/Normal_2K_LOD0_slvfI.uasset" 629
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slvfI/Albedo_2K_slvfI.uasset" 630
-"../../../Engine/Content/EngineResources/Black.uasset" 631
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 632
-"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 633
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MS_DefaultMaterial/Functions/MF_Transmission.uasset" 634
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 635
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling.uasset" 636
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments.uasset" 637
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling.uasset" 638
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset" 639
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slvfI/Broken_Wall_slvfI_inst.uasset" 640
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slvfI/Broken_Wall_LOD0_slvfI.uasset" 641
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slumj/Roughness_2K_slumj.uasset" 642
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slumj/Normal_2K_LOD0_slumj.uasset" 643
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slumj/Albedo_2K_slumj.uasset" 644
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slumj/Broken_Wall_slumj_inst.uasset" 645
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slumj/Broken_Wall_LOD0_slumj.uasset" 646
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Roman_Limestone_Wall_thzldg2qx/Roughness_4K_thzldg2qx.uasset" 647
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Roman_Limestone_Wall_thzldg2qx/Normal_4K_thzldg2qx.uasset" 648
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Roman_Limestone_Wall_thzldg2qx/Albedo_4K_thzldg2qx.uasset" 649
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Roman_Limestone_Wall_thzldg2qx/Roman_Limestone_Wall_thzldg2qx_inst.uasset" 650
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Fort_Damaged_Floor_te3maaeg/Roughness_4K_te3maaeg.uasset" 651
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Fort_Damaged_Floor_te3maaeg/Normal_4K_te3maaeg.uasset" 652
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Fort_Damaged_Floor_te3maaeg/Albedo_4K_te3maaeg.uasset" 653
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Fort_Damaged_Floor_te3maaeg/Fort_Damaged_Floor_te3maaeg_inst.uasset" 654
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/lavaminecraft.uasset" 655
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/lavaminecraft__2_.uasset" 656
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Lava.uasset" 657
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/KillPlane.uasset" 658
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Stone_Wall_tepkfirn/Roughness_4K_tepkfirn.uasset" 659
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Stone_Wall_tepkfirn/Normal_4K_tepkfirn.uasset" 660
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Stone_Wall_tepkfirn/Albedo_4K_tepkfirn.uasset" 661
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Stone_Wall_tepkfirn/Stone_Wall_tepkfirn_inst.uasset" 662
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/PyramidMap_BuiltData.uasset" 663
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/PyramidMap.umap" 664
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/WestSide.uasset" 665
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SouthSide.uasset" 666
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Music/AncientWaters.uasset" 667
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/NorthSide.uasset" 668
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/defaultMat.uasset" 669
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/EastSide.uasset" 670
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/NE3.uasset" 671
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/NE2.uasset" 672
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/NE1.uasset" 673
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/TransMat.uasset" 674
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_tornado07.uasset" 675
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_quad_centerRot.uasset" 676
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_circleDist06.uasset" 677
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_stone02_2x2.uasset" 678
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 679
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 680
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 681
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_stone02.uasset" 682
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_empty.uasset" 683
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_vortex04_4x4.uasset" 684
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_vortex04_4x4.uasset" 685
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two.uasset" 686
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_smoke_kai.uasset" 687
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_dist_noise.uasset" 688
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 689
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 690
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_base_turbulence.uasset" 691
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_turbulence_smoke2d_trs.uasset" 692
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise4.uasset" 693
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing.uasset" 694
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise5.uasset" 695
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController.uasset" 696
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 697
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise6.uasset" 698
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_stormDeco01.uasset" 699
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise17.uasset" 700
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_MaskToTopUnder.uasset" 701
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_maskRGB3.uasset" 702
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_AddHilight.uasset" 703
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController_primitive.uasset" 704
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_storm01.uasset" 705
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_nonD.uasset" 706
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flare_a.uasset" 707
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_flare_flash.uasset" 708
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_storm.uasset" 709
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_storm.uasset" 710
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_cylinderBend07.uasset" 711
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_magicCircle020.uasset" 712
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_VectorToRadialValue.uasset" 713
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_magicCircle020.uasset" 714
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_circle01_4x4.uasset" 715
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_circle01_4x4G_nonD.uasset" 716
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise.uasset" 717
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_auraWallWhite_4x4.uasset" 718
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_Fresnel.uasset" 719
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_circleDust.uasset" 720
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_base.uasset" 721
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_circleDust.uasset" 722
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_chantDecoC.uasset" 723
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_chantDecoA.uasset" 724
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_chantDecoAc.uasset" 725
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_magicCircle1.uasset" 726
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_magicCircle1.uasset" 727
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMapDeepCrevice_BuiltData.uasset" 728
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMapDeepCrevice.umap" 729
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Map/GameMap_BuiltData.uasset" 730
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Materials/M_Ramp.uasset" 731
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Meshes/SM_RightArm.uasset" 732
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Meshes/SM_Ramp.uasset" 733
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Meshes/SM_Linear_Stair.uasset" 734
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Meshes/SM_LeftArm.uasset" 735
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Meshes/SM_Bum.uasset" 736
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/Geometry/Meshes/SM_TemplateFloor.uasset" 737
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/Geometry/Meshes/SM_1M_Cube_Chamfer.uasset" 738
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Map/GameMap.umap" 739
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Map/Lobby_BuiltData.uasset" 740
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Map/Lobby.umap" 741
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_LightTube.uasset" 742
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_LightTube.uasset" 743
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Physical_Materials/Metal.uasset" 744
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Physical_Materials/Rubber.uasset" 745
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall.uasset" 746
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall.uasset" 747
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall3.uasset" 748
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall2.uasset" 749
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim2.uasset" 750
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp2.uasset" 751
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall_MattPlastic.uasset" 752
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall2.uasset" 753
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Textures/T_UnrealEngineDecal.uasset" 754
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Textures/T_Pattern_M.uasset" 755
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern.uasset" 756
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWallPattern.uasset" 757
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored.uasset" 758
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim.uasset" 759
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomLTrim.uasset" 760
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Physical_Materials/Concrete.uasset" 761
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Textures/T_RoomTiles_N.uasset" 762
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Textures/T_RoomTiles_M.uasset" 763
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoRoomTiles.uasset" 764
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoRoomTiles.uasset" 765
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomL.uasset" 766
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp.uasset" 767
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall.uasset" 768
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider2.uasset" 769
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider1.uasset" 770
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.uasset" 771
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_Glass.uasset" 772
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_Glass.uasset" 773
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText.uasset" 774
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit.uasset" 775
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall2.uasset" 776
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall.uasset" 777
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall_Inst_NamePlate.uasset" 778
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall_Inst_BaseFloor.uasset" 779
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU_Hole.uasset" 780
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU2.uasset" 781
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU.uasset" 782
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrimAdd.uasset" 783
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom.uasset" 784
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_NamePlate.uasset" 785
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_BaseRoom.uasset" 786
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_Base_FlatWall.uasset" 787
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_Base2.uasset" 788
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_Base.uasset" 789
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.uasset" 790
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay.uasset" 791
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_waterDust02.uasset" 792
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_smoke1.uasset" 793
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_smoke01.uasset" 794
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_smoke01c.uasset" 795
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_decoLinesB.uasset" 796
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_decoLines.uasset" 797
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_polar.uasset" 798
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_polar_two.uasset" 799
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_flare_flash_trs.uasset" 800
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_waterBallHit.uasset" 801
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_shockwave12_4x4.uasset" 802
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_bg.uasset" 803
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_subUV01.uasset" 804
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shockwave12_4x4.uasset" 805
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_polarG_nonD.uasset" 806
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_hit2.uasset" 807
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_hit2.uasset" 808
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_waterBallHit.uasset" 809
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_waterBall.uasset" 810
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_windSmokeVertRot.uasset" 811
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_planeBend.uasset" 812
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flareVert.uasset" 813
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_flareVert.uasset" 814
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_quads.uasset" 815
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_maskRGB5.uasset" 816
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flare3.uasset" 817
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_flarePillar.uasset" 818
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_polarC_two.uasset" 819
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_deco_doom.uasset" 820
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_aura9.uasset" 821
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_aura9.uasset" 822
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_shotShockwave.uasset" 823
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_fireBall.uasset" 824
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_primitive_dyn2.uasset" 825
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_two.uasset" 826
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 827
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_primitive.uasset" 828
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_primitive2b_trs.uasset" 829
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_explosion.uasset" 830
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_fireBall.uasset" 831
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_waterBall.uasset" 832
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_thunderForBeam.uasset" 833
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD.uasset" 834
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder.uasset" 835
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_shockWave03_4x4.uasset" 836
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_shockWave03_4x4.uasset" 837
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shockWave03g_4x4.uasset" 838
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_thunderStorm.uasset" 839
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_thunderStorm.uasset" 840
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_smoke01b.uasset" 841
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_smoke01.uasset" 842
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_thunderBall.uasset" 843
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_lightningDust01_4x4.uasset" 844
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_bg_LC.uasset" 845
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_subUV_dynRGB.uasset" 846
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_lightningDust01_4x4_nonD.uasset" 847
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_lightning02_4x4.uasset" 848
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_lightning02_4x4.uasset" 849
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_ThunderBallHit.uasset" 850
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_thunderBall.uasset" 851
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_shotSpawn.uasset" 852
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_deco_rainbow.uasset" 853
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_trail_primitive.uasset" 854
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_polar_primitive.uasset" 855
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_shockwave10_4x4.uasset" 856
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flareVertical02.uasset" 857
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_flare01_primitive.uasset" 858
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shockwave10R_4x4_nonD.uasset" 859
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_shine01_4x4.uasset" 860
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shine01R_nonD.uasset" 861
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shine01B.uasset" 862
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flareVertical03_4x4.uasset" 863
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_subUV03.uasset" 864
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_flareVertical03b_4x4.uasset" 865
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_shootingStar1.uasset" 866
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_shootingStar1.uasset" 867
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.uasset" 868
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_smoke2.uasset" 869
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise3.uasset" 870
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_dynDust.uasset" 871
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_dynDust2.uasset" 872
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_lightning3.uasset" 873
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_lightning1.uasset" 874
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_lightning1.uasset" 875
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_lightning3.uasset" 876
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_lightning2.uasset" 877
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_lightning2.uasset" 878
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_laser01.uasset" 879
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_dust_longStar.uasset" 880
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 881
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 882
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 883
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 884
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_starDust.uasset" 885
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_starDust_sq.uasset" 886
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shine01R.uasset" 887
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_laser01.uasset" 888
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_laser01.uasset" 889
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flare25_4x4.uasset" 890
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_flare25_4x4.uasset" 891
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_hit1.uasset" 892
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_hit1.uasset" 893
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_cylinder_superLow.uasset" 894
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_cylinder_lowPoly_dist.uasset" 895
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_auraWall_distB_kai.uasset" 896
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_dust01_4x4.uasset" 897
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_UVcontrol_4x4.uasset" 898
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_dust01_4x4.uasset" 899
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_starDust_dis.uasset" 900
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_circle9_4x4.uasset" 901
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_maskCircle.uasset" 902
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_base_anime.uasset" 903
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_circle9_4x4c2.uasset" 904
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_smoke03.uasset" 905
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise13_sml_nor.uasset" 906
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_auraWall02.uasset" 907
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_auraWall02_two.uasset" 908
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_aura011_4x4.uasset" 909
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4_nonD.uasset" 910
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4.uasset" 911
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_healAura.uasset" 912
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_healAura.uasset" 913
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_fire.uasset" 914
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_fire_nonD1.uasset" 915
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_fire.uasset" 916
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_dynDust.uasset" 917
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_fireStorm.uasset" 918
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_fireStorm.uasset" 919
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_explosion.uasset" 920
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_dark.uasset" 921
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_dark_nonD.uasset" 922
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_dark.uasset" 923
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_darkStorm.uasset" 924
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_darkStorm.uasset" 925
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_aqua.uasset" 926
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua_nonD.uasset" 927
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua.uasset" 928
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_aquaStorm.uasset" 929
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_aquaStorm.uasset" 930
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_ThunderBallHit.uasset" 931
-"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Map/Overview.umap" 932
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 933
-"../../../Engine/Content/Maps/Entry.umap" 934
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/VFX/NIA_geyser.uasset" 616
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Geyser.uasset" 617
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_geyser.uasset" 618
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMapFlatWalk.umap" 619
+"../../../Engine/Content/BasicShapes/Cube.uasset" 620
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 621
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/MAP_Blockout_BuiltData.uasset" 622
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/MAP_Blockout.umap" 623
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BlockoutAssets/_wire_255255256.uasset" 624
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/BlockoutAssets/SM_Bob.uasset" 625
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMap_BuiltData.uasset" 626
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMap.umap" 627
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Music/Pyramid.uasset" 628
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 629
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MSTextures/Metalness.uasset" 630
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slvfI/Roughness_2K_slvfI.uasset" 631
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slvfI/Normal_2K_LOD0_slvfI.uasset" 632
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slvfI/Albedo_2K_slvfI.uasset" 633
+"../../../Engine/Content/EngineResources/Black.uasset" 634
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 635
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 636
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MS_DefaultMaterial/Functions/MF_Transmission.uasset" 637
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 638
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling.uasset" 639
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments.uasset" 640
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling.uasset" 641
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset" 642
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slvfI/Broken_Wall_slvfI_inst.uasset" 643
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slvfI/Broken_Wall_LOD0_slvfI.uasset" 644
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slumj/Roughness_2K_slumj.uasset" 645
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slumj/Normal_2K_LOD0_slumj.uasset" 646
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slumj/Albedo_2K_slumj.uasset" 647
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slumj/Broken_Wall_slumj_inst.uasset" 648
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/3D_Assets/Broken_Wall_slumj/Broken_Wall_LOD0_slumj.uasset" 649
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Roman_Limestone_Wall_thzldg2qx/Roughness_4K_thzldg2qx.uasset" 650
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Roman_Limestone_Wall_thzldg2qx/Normal_4K_thzldg2qx.uasset" 651
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Roman_Limestone_Wall_thzldg2qx/Albedo_4K_thzldg2qx.uasset" 652
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Roman_Limestone_Wall_thzldg2qx/Roman_Limestone_Wall_thzldg2qx_inst.uasset" 653
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Fort_Damaged_Floor_te3maaeg/Roughness_4K_te3maaeg.uasset" 654
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Fort_Damaged_Floor_te3maaeg/Normal_4K_te3maaeg.uasset" 655
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Fort_Damaged_Floor_te3maaeg/Albedo_4K_te3maaeg.uasset" 656
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Fort_Damaged_Floor_te3maaeg/Fort_Damaged_Floor_te3maaeg_inst.uasset" 657
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/lavaminecraft__2_.uasset" 658
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/lavaminecraft.uasset" 659
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Lava.uasset" 660
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/KillPlane.uasset" 661
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Stone_Wall_tepkfirn/Roughness_4K_tepkfirn.uasset" 662
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Stone_Wall_tepkfirn/Normal_4K_tepkfirn.uasset" 663
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Stone_Wall_tepkfirn/Albedo_4K_tepkfirn.uasset" 664
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Megascans/Surfaces/Stone_Wall_tepkfirn/Stone_Wall_tepkfirn_inst.uasset" 665
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/PyramidMap_BuiltData.uasset" 666
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/PyramidMap.umap" 667
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/WestSide.uasset" 668
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/SouthSide.uasset" 669
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Music/AncientWaters.uasset" 670
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/NorthSide.uasset" 671
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/defaultMat.uasset" 672
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/EastSide.uasset" 673
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/NE3.uasset" 674
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/NE2.uasset" 675
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/NE1.uasset" 676
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/TransMat.uasset" 677
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_tornado07.uasset" 678
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_quad_centerRot.uasset" 679
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_circleDist06.uasset" 680
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_stone02_2x2.uasset" 681
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 682
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 683
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 684
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_stone02.uasset" 685
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_empty.uasset" 686
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_vortex04_4x4.uasset" 687
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_vortex04_4x4.uasset" 688
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two.uasset" 689
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_smoke_kai.uasset" 690
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_dist_noise.uasset" 691
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 692
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 693
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_base_turbulence.uasset" 694
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_turbulence_smoke2d_trs.uasset" 695
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise4.uasset" 696
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing.uasset" 697
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise5.uasset" 698
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController.uasset" 699
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 700
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise6.uasset" 701
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_stormDeco01.uasset" 702
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise17.uasset" 703
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_MaskToTopUnder.uasset" 704
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_maskRGB3.uasset" 705
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_AddHilight.uasset" 706
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController_primitive.uasset" 707
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_storm01.uasset" 708
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_nonD.uasset" 709
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flare_a.uasset" 710
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_flare_flash.uasset" 711
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_storm.uasset" 712
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_storm.uasset" 713
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_cylinderBend07.uasset" 714
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_magicCircle020.uasset" 715
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_VectorToRadialValue.uasset" 716
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_magicCircle020.uasset" 717
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_circle01_4x4.uasset" 718
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_circle01_4x4G_nonD.uasset" 719
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise.uasset" 720
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_auraWallWhite_4x4.uasset" 721
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_Fresnel.uasset" 722
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_circleDust.uasset" 723
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_base.uasset" 724
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_circleDust.uasset" 725
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_chantDecoC.uasset" 726
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_chantDecoA.uasset" 727
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_chantDecoAc.uasset" 728
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_magicCircle1.uasset" 729
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_magicCircle1.uasset" 730
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Blueprints/BP_elevator.uasset" 731
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMapDeepCrevice_BuiltData.uasset" 732
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Maps/AncientWatersMapDeepCrevice.umap" 733
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Map/GameMap_BuiltData.uasset" 734
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Materials/M_Ramp.uasset" 735
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Meshes/SM_RightArm.uasset" 736
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Meshes/SM_Ramp.uasset" 737
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Meshes/SM_Linear_Stair.uasset" 738
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Meshes/SM_LeftArm.uasset" 739
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/ThirdPerson/Meshes/SM_Bum.uasset" 740
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/Geometry/Meshes/SM_TemplateFloor.uasset" 741
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/ExampleContent/Geometry/Meshes/SM_1M_Cube_Chamfer.uasset" 742
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Map/GameMap.umap" 743
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/Sound/Music/MainMenu.uasset" 744
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Map/Lobby_BuiltData.uasset" 745
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/MultiplayerStarterPack/Map/Lobby.umap" 746
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Textures/T_UnrealEngineDecal.uasset" 747
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Textures/T_Pattern_M.uasset" 748
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern.uasset" 749
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Physical_Materials/Metal.uasset" 750
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWallPattern.uasset" 751
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored.uasset" 752
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Physical_Materials/Rubber.uasset" 753
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall.uasset" 754
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall.uasset" 755
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall3.uasset" 756
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider2.uasset" 757
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider1.uasset" 758
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.uasset" 759
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_Glass.uasset" 760
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_Glass.uasset" 761
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Physical_Materials/Concrete.uasset" 762
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Textures/T_RoomTiles_N.uasset" 763
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Textures/T_RoomTiles_M.uasset" 764
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoRoomTiles.uasset" 765
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoRoomTiles.uasset" 766
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText.uasset" 767
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit.uasset" 768
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall2.uasset" 769
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall.uasset" 770
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall_Inst_NamePlate.uasset" 771
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall_Inst_BaseFloor.uasset" 772
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU_Hole.uasset" 773
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU2.uasset" 774
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU.uasset" 775
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrimAdd.uasset" 776
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_LightTube.uasset" 777
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_LightTube.uasset" 778
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall2.uasset" 779
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim2.uasset" 780
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim.uasset" 781
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomLTrim.uasset" 782
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomL.uasset" 783
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp2.uasset" 784
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp.uasset" 785
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall_MattPlastic.uasset" 786
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall2.uasset" 787
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall.uasset" 788
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom.uasset" 789
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_NamePlate.uasset" 790
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_BaseRoom.uasset" 791
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_Base_FlatWall.uasset" 792
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_Base2.uasset" 793
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Meshes/SM_Base.uasset" 794
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.uasset" 795
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay.uasset" 796
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_waterDust02.uasset" 797
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_smoke1.uasset" 798
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_smoke01.uasset" 799
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_smoke01c.uasset" 800
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_decoLinesB.uasset" 801
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_decoLines.uasset" 802
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_polar.uasset" 803
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_polar_two.uasset" 804
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_flare_flash_trs.uasset" 805
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_waterBallHit.uasset" 806
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_shockwave12_4x4.uasset" 807
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_bg.uasset" 808
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_subUV01.uasset" 809
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shockwave12_4x4.uasset" 810
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_polarG_nonD.uasset" 811
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_hit2.uasset" 812
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_hit2.uasset" 813
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_waterBallHit.uasset" 814
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_waterBall.uasset" 815
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_windSmokeVertRot.uasset" 816
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_planeBend.uasset" 817
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flareVert.uasset" 818
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_flareVert.uasset" 819
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_quads.uasset" 820
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_maskRGB5.uasset" 821
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flare3.uasset" 822
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_flarePillar.uasset" 823
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_polarC_two.uasset" 824
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_deco_doom.uasset" 825
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_aura9.uasset" 826
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_aura9.uasset" 827
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_shotShockwave.uasset" 828
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_fireBall.uasset" 829
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_primitive_dyn2.uasset" 830
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_two.uasset" 831
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 832
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_primitive.uasset" 833
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_primitive2b_trs.uasset" 834
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_explosion.uasset" 835
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_fireBall.uasset" 836
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_waterBall.uasset" 837
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_thunderForBeam.uasset" 838
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD.uasset" 839
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder.uasset" 840
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_shockWave03_4x4.uasset" 841
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_shockWave03_4x4.uasset" 842
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shockWave03g_4x4.uasset" 843
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_thunderStorm.uasset" 844
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_thunderStorm.uasset" 845
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_smoke01b.uasset" 846
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_smoke01.uasset" 847
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_thunderBall.uasset" 848
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_lightningDust01_4x4.uasset" 849
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_bg_LC.uasset" 850
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_subUV_dynRGB.uasset" 851
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_lightningDust01_4x4_nonD.uasset" 852
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_lightning02_4x4.uasset" 853
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_lightning02_4x4.uasset" 854
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_ThunderBallHit.uasset" 855
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_thunderBall.uasset" 856
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_shotSpawn.uasset" 857
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_deco_rainbow.uasset" 858
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_trail_primitive.uasset" 859
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_polar_primitive.uasset" 860
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_shockwave10_4x4.uasset" 861
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flareVertical02.uasset" 862
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_flare01_primitive.uasset" 863
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shockwave10R_4x4_nonD.uasset" 864
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_shine01_4x4.uasset" 865
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shine01R_nonD.uasset" 866
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shine01B.uasset" 867
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flareVertical03_4x4.uasset" 868
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_subUV03.uasset" 869
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_flareVertical03b_4x4.uasset" 870
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_shootingStar1.uasset" 871
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_shootingStar1.uasset" 872
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.uasset" 873
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_smoke2.uasset" 874
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise3.uasset" 875
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_dynDust.uasset" 876
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_dynDust2.uasset" 877
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_lightning3.uasset" 878
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_lightning1.uasset" 879
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_lightning1.uasset" 880
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_lightning3.uasset" 881
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_lightning2.uasset" 882
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_lightning2.uasset" 883
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_laser01.uasset" 884
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_dust_longStar.uasset" 885
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 886
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 887
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 888
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 889
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_starDust.uasset" 890
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_starDust_sq.uasset" 891
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_shine01R.uasset" 892
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_laser01.uasset" 893
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_laser01.uasset" 894
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_flare25_4x4.uasset" 895
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_flare25_4x4.uasset" 896
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_hit1.uasset" 897
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_hit1.uasset" 898
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_cylinder_superLow.uasset" 899
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_cylinder_lowPoly_dist.uasset" 900
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Meshes/SM_ky_auraWall_distB_kai.uasset" 901
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_dust01_4x4.uasset" 902
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/Mfunction/MF_ky_UVcontrol_4x4.uasset" 903
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_dust01_4x4.uasset" 904
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_starDust_dis.uasset" 905
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_circle9_4x4.uasset" 906
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_maskCircle.uasset" 907
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_base_anime.uasset" 908
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_circle9_4x4c2.uasset" 909
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_smoke03.uasset" 910
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_noise13_sml_nor.uasset" 911
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/M_ky_auraWall02.uasset" 912
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_auraWall02_two.uasset" 913
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Textures/T_ky_aura011_4x4.uasset" 914
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4_nonD.uasset" 915
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4.uasset" 916
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_healAura.uasset" 917
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_healAura.uasset" 918
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_fire.uasset" 919
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_fire_nonD1.uasset" 920
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_fire.uasset" 921
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_dynDust.uasset" 922
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_fireStorm.uasset" 923
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_fireStorm.uasset" 924
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_explosion.uasset" 925
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_dark.uasset" 926
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_dark_nonD.uasset" 927
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_dark.uasset" 928
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_darkStorm.uasset" 929
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_darkStorm.uasset" 930
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_aqua.uasset" 931
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua_nonD.uasset" 932
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua.uasset" 933
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Particles/P_ky_aquaStorm.uasset" 934
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_aquaStorm.uasset" 935
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Blueprints/BP_ky_ThunderBallHit.uasset" 936
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/FXVarietyPack/Map/Overview.umap" 937
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/trailerAssets/recordingStudio_BuiltData.uasset" 938
+"F:/_Studio 1/AWLevelOct31/AWLevelOct31/Content/trailerAssets/recordingStudio.umap" 939
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 940
+"../../../Engine/Content/Maps/Entry.umap" 941
